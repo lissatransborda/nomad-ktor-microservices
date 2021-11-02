@@ -2,7 +2,7 @@
 
 Esse projeto é um teste prático de microserviços usando o framework [Ktor](https://ktor.io), o banco de dados [Postgres](https://www.postgresql.org/), o orquestrador de conteiners [Nomad](https://www.nomadproject.io/), o *Service Mash* [Consul](https://www.consul.io/) e o *Load Balancer* para Consul [Fabio](https://fabiolb.net/).
 
->> ATENÇÃO: Esse projeto não busca ser o padrão para a criação de microserviços usando as tecnologias listadas, é apenas um experimento meu enquanto buscava aprender mais sobre as tecnologias acima.
+> ATENÇÃO: Esse projeto não busca ser o padrão para a criação de microserviços usando as tecnologias listadas, é apenas um experimento meu enquanto buscava aprender mais sobre as tecnologias acima.
 
 # Arquitetura
 

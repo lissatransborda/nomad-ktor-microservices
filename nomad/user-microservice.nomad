@@ -63,7 +63,7 @@ job "user-microservice" {
       driver = "docker"
 
       config {
-        image = "edersonferreira/user-microservice"
+        image = "edersonferreira/kotlinautas-artigo-nomad-user-microservice"
         ports = ["http"]
       }
     }

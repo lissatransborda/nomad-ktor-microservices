@@ -63,7 +63,7 @@ job "post-microservice" {
       driver = "docker"
 
       config {
-        image = "edersonferreira/post-microservice"
+        image = "edersonferreira/kotlinautas-artigo-nomad-post-microservice"
         ports = ["http"]
       }
     }

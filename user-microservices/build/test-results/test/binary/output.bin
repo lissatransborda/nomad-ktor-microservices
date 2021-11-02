@@ -1,0 +1,2 @@
+t2021-10-25 22:37:05.214 [Test worker] INFO  ktor.test - Autoreload is disabled because the development mode is off.
+^2021-10-25 22:37:05.225 [Test worker] INFO  ktor.test - Application started in 0.062 seconds.

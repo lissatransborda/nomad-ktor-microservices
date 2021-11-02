@@ -1,4 +1,4 @@
-# Ktor + Postgres + Nomad + Consul + Fabio
+# Microserviços com Ktor e Nomad
 
 Esse projeto é um teste prático de microserviços usando o framework [Ktor](https://ktor.io), o banco de dados [Postgres](https://www.postgresql.org/), o orquestrador de conteiners [Nomad](https://www.nomadproject.io/), o *Service Mash* [Consul](https://www.consul.io/) e o *Load Balancer* para Consul [Fabio](https://fabiolb.net/).
 
